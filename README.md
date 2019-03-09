@@ -1,6 +1,10 @@
 # videos
 ![](public/images/videos.png)
 
+App built as part of Udemy Course: Modern React with Redux [2019 Update] By Stephen Grider
+
+<br /><br />
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
